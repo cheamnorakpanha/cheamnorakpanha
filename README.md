@@ -1,5 +1,5 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="40%" /> -->
-<img src="https://i.pinimg.com/originals/ec/9a/c3/ec9ac3d1e2ee18491d2685bea78b2ffe.gif" width="100%" height="" />
+<img src="https://i.pinimg.com/originals/c7/63/a2/c763a2027577986bbd62a2ca833e07fc.gif" width="100%" height="" />
 
 ## 💫 About Me:
 👋 Hi, I’m Cheam Norakpanha, a recent graduate from RUPP, majoring in IT Engineering, and IFL, majoring in Professional Communication.<br><br>🧑‍🎓 I’m currently studying at K.S. H.R.D Center, pursuing my goal of becoming a Data Analyst and expanding my expertise in Artificial Intelligence.<br><br>💡 I’m passionate about building practical projects, solving real-world problems, and continuously strengthening my technical and analytical skills.<br><br>🤯 Fun fact: I once questioned my life choices because of a missing semicolon.
