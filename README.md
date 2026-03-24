@@ -1,6 +1,6 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="40%" /> -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/4c/f1/5a/4cf15a1fd75a7fc368f5a7ead8fc4aa7.jpg" width="100%">
+  <img src="https://i.pinimg.com/1200x/2d/6d/5d/2d6d5d8195fead4cf719ee2c53255df6.jpg" width="100%">
 </p>
 
 ## 💫 About Me:
