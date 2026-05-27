@@ -1,7 +1,8 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="40%" /> -->
+
 <p align="center">
   <!-- <img src="https://i.pinimg.com/originals/ec/9a/c3/ec9ac3d1e2ee18491d2685bea78b2ffe.gif" width="100%"> -->
-  <img src="https://i.pinimg.com/1200x/88/2a/e3/882ae3bf15aee1a21dbfb7b0003e269a.jpg" width="100%">
+  <img src="https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif" width="100%">
 </p>
 
 ## 💫 About Me:
