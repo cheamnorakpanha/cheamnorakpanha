@@ -6,7 +6,7 @@
 </p>
 
 ## 💫 About Me:
-👋 Hi, I’m Cheam Norakpanha, a recent graduate from RUPP, majoring in IT Engineering, and IFL, majoring in Professional Communication.<br><br>🧑‍🎓 I’m currently studying at K.S. H.R.D Center, pursuing my goal of becoming a Data Analyst and expanding my expertise in Artificial Intelligence.<br><br>💡 I’m passionate about building practical projects, solving real-world problems, and continuously strengthening my technical and analytical skills.<br><br>🤯 Fun fact: I once questioned my life choices because of a missing semicolon.
+👋 Hi, I’m Cheam Norakpanha, a recent graduate from RUPP, majoring in IT Engineering, and IFL, majoring in Professional Communication.<br><br>🧑‍🎓 I’m currently a Data Analytics student at K.S. H.R.D Center, while also studying AI Engineering, with a focus on Local LLMs and Artificial Intelligence.<br><br>💡 I’m passionate about building practical projects, solving real-world problems, and continuously strengthening my technical, analytical, and AI skills.<br><br>🤯 Fun fact: I once questioned my life choices because of a missing semicolon.
 
 <!--
 ## 🌐 Socials:
