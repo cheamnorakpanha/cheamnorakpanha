@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- <img src="https://i.pinimg.com/originals/ec/9a/c3/ec9ac3d1e2ee18491d2685bea78b2ffe.gif" width="100%"> -->
-  <img src="https://i.pinimg.com/originals/ec/9a/c3/ec9ac3d1e2ee18491d2685bea78b2ffe.gif" width="100%">
+  <img src="https://i.pinimg.com/1200x/da/57/f6/da57f626e1fde1a967031c5c8d4fec1a.jpg" width="100%">
 </p>
 
 ## 💫 About Me:
